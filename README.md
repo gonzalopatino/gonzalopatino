@@ -10,7 +10,7 @@
 
 - <b>Data Acquisition System with PIC24 Microcontroller </b>
 
-  - [Link][(https://github.com/gonzalopatino/Data-Acquisition-System-PIC24)](https://github.com/gonzalopatino/Data-Acquisition-System-PIC24))
+  - [Sensor Acquisition][(https://github.com/gonzalopatino/Data-Acquisition-System-PIC24)](https://github.com/gonzalopatino/Data-Acquisition-System-PIC24))
 
 <h3>👨‍💻Software Development and Computer Science Projects:</h3>
 
