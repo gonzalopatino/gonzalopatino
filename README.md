@@ -1,56 +1,56 @@
-<h1 style="font-size: 2.5em; font-weight: bold; margin-bottom: 10px;">Hi, I'm Gonzalo!</h1>
-<p style="font-size: 1.2em; line-height: 1.5; color: #333;">
-  Applications Engineer | Embedded Systems | End-to-End Software Solutions | IoT | AI Integration | Process Optimization | IT Support | 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&lines=Hi%2C+I'm+Gonzalo!+%F0%9F%91%8B;Applications+Engineer+%7C+Embedded+Systems+%7C+IoT;AI+Integration+%7C+Process+Optimization+%7C+Software+Development" />
 </p>
 
+---
 
-<h2>👨‍💻 Projects:</h2>
+## 💼 Professional Projects
 
-<h3>👨‍💻Embedded System Projects:</h3>
+### 🔧 Embedded System Projects
+- **[Data Acquisition System with PIC24 Microcontroller](https://github.com/gonzalopatino/Data-Acquisition-System-PIC24)**  
+  Design and implementation of a data acquisition system using the PIC24 microcontroller for real-time data processing.
 
-- <b>Data Acquisition System with PIC24 Microcontroller </b>
+- **[Logic Probe Design](https://github.com/gonzalopatino/Logic-Probe-Design)**  
+  A logic probe tool designed for digital electronics troubleshooting and signal analysis.
 
-  - [(https://github.com/gonzalopatino/Data-Acquisition-System-PIC24)](https://github.com/gonzalopatino/Data-Acquisition-System-PIC24))
- 
-- <b>Logic Probe Design </b>
+### 💻 Software Development & Computer Science Projects
+- **[Battery Management Studio .log to Plot File](https://github.com/gonzalopatino/BMS-to-Plot/tree/main)**  
+  Conversion tool for Battery Management System logs to graphical plots for better visualization and analysis.
 
-  - [(https://github.com/gonzalopatino/Logic-Probe-Design)](https://github.com/gonzalopatino/Logic-Probe-Design))    
+- **[Automated RMA Generator](https://github.com/gonzalopatino/RMA-management-system)**  
+  A Python-based system to automatically generate Return Merchandise Authorizations, improving efficiency in customer returns processing.
 
-<h3>👨‍💻Software Development and Computer Science Projects:</h3>
+- **[Automated Warranty Generator](https://github.com/gonzalopatino/Automated-warranty-generator)**  
+  Automates the creation of warranty documents for streamlined product support.
 
-- <b>Battery Management Studio .log to Plot file </b>
+- **[Produce Analyzer (C++)](https://github.com/gonzalopatino/Produce-Analyzer-Cplusplus-script)**  
+  A C++ script that analyzes produce inventory data and generates reports based on defined metrics.
 
-  - [(https://github.com/gonzalopatino/BMS-to-Plot/tree/main)](https://github.com/gonzalopatino/BMS-to-Plot/tree/main))
- 
-- <b>Automated RMA Generator</b>
+---
 
-  - [(https://github.com/gonzalopatino/RMA-management-system)](https://github.com/gonzalopatino/RMA-management-system))
-  - 
+## 📺 Popular YouTube Videos
 
-- <b>Automated Warranty Generator</b>
+- [Start Your Career with Software Development](https://youtu.be/gU1KizcW9Oc)
 
-  - [(https://github.com/gonzalopatino/Automated-warranty-generator)](https://github.com/gonzalopatino/Automated-warranty-generator))
-  - 
-- <b>Produce-Analyzer-Cplusplus </b>
+---
 
-  - [(https://github.com/gonzalopatino/Produce-Analyzer-Cplusplus-script)](https://github.com/gonzalopatino/Produce-Analyzer-Cplusplus-script)) 
+## 🌐 Connect with Me
 
-<h2>📺 Popular YouTube Videos</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/gpatinoc">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@patinodevai">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/patinodevai">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-- [Start your career with software development](https://youtu.be/gU1KizcW9Oc)
+---
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
+<!-- Social media links -->
 [youtube]: https://www.youtube.com/@patinodevai
 [instagram]: https://www.instagram.com/patinodevai
 [linkedin]: https://linkedin.com/in/gpatinoc
-
-<!--
-**gonzalopatino/gonzalopatino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
