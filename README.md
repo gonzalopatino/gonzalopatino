@@ -10,7 +10,11 @@
 
 - <b>Data Acquisition System with PIC24 Microcontroller </b>
 
-  - [Sensor Acquisition][(https://github.com/gonzalopatino/Data-Acquisition-System-PIC24)](https://github.com/gonzalopatino/Data-Acquisition-System-PIC24))
+  - [(https://github.com/gonzalopatino/Data-Acquisition-System-PIC24)](https://github.com/gonzalopatino/Data-Acquisition-System-PIC24))
+ 
+- <b>Logic Probe Design </b>
+
+  - [(https://github.com/gonzalopatino/Logic-Probe-Design)](https://github.com/gonzalopatino/Logic-Probe-Design))    
 
 <h3>👨‍💻Software Development and Computer Science Projects:</h3>
 
