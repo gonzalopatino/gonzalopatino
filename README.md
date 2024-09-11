@@ -13,8 +13,8 @@
 - **[Data Acquisition System with PIC24 Microcontroller](https://github.com/gonzalopatino/Data-Acquisition-System-PIC24)**  
   Design and implementation of a data acquisition system using the PIC24 microcontroller for real-time data processing.
 
-- **[Atmega 328P Proto board with Schematics and .PCB Eagle](https://github.com/gonzalopatino/Data-Acquisition-System-PIC24)**  
-  Design and build a simple Atmega 328 proto board to understand microcontroller principles.  
+- **[Atmega 328P Proto board with Schematics and .PCB Eagle](https://github.com/gonzalopatino/Atmega328P-Board-Eagle)**  
+  Designed and developed a prototype ATmega328P board, complete with schematics and PCB layout in EAGLE, aimed at enhancing understanding of microcontroller architecture and practical circuit design. This project serves as a foundation for building custom embedded systems and experimenting with AVR microcontroller functionality.  
 
 - **[Logic Probe Design](https://github.com/gonzalopatino/Logic-Probe-Design)**  
   A logic probe tool designed for digital electronics troubleshooting and signal analysis.
