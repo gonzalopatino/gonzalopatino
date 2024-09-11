@@ -18,11 +18,14 @@
 
 <h3>👨‍💻Software Development and Computer Science Projects:</h3>
 
-
-
 - <b>Battery Management Studio .log to Plot file </b>
 
   - [(https://github.com/gonzalopatino/BMS-to-Plot/tree/main)](https://github.com/gonzalopatino/BMS-to-Plot/tree/main))
+ 
+- <b>Automated RMA Generator</b>
+
+  - [(https://github.com/gonzalopatino/RMA-management-system)](https://github.com/gonzalopatino/RMA-management-system))
+  - 
 
 - <b>Automated Warranty Generator</b>
 
