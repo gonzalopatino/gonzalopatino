@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gonzalo!+%F0%9F%91%8B;Applications+Engineer;Embedded+Systems+Specialist;IoT+%7C+AI+Integration;Process+Optimization;Software+Development+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gonzalo!+%F0%9F%91%8B;Software+Development;Applications+Engineer;Embedded+Systems;IoT+%7C+AI+Integration;Process+Optimization" />
 </p>
+
 
 
 
