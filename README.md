@@ -7,7 +7,7 @@
 
 ---
 
-## 💼 Professional Projects
+## 💼 Some of my Projects:
 
 ### 🔧 Embedded System Projects
 - **[Data Acquisition System with PIC24 Microcontroller](https://github.com/gonzalopatino/Data-Acquisition-System-PIC24)**  
