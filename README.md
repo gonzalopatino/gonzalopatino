@@ -20,6 +20,8 @@
   A logic probe tool designed for digital electronics troubleshooting and signal analysis.
 
 ### 💻 Software Development & Computer Science Projects
+- **[PDF Decryption Tool](https://github.com/gonzalopatino/PDF-Decryption-Tool)**  
+  This tool decrypts password-protected PDF files by unlocking them with the correct password, allowing users to save an unprotected version of the document.
 - **[Battery Management Studio .log to Plot File](https://github.com/gonzalopatino/BMS-to-Plot/tree/main)**  
   Conversion tool for Battery Management System logs to graphical plots for better visualization and analysis.
 
